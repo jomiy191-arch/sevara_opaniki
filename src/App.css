@@ -1,4 +1,3 @@
-/* Umumiy sahifani markazga keltirish */
 body {
   margin: 0;
   padding: 0;
@@ -12,7 +11,7 @@ body {
 }
 
 .form-container {
-  background: #ffffff;
+  background: #ee4343;
   padding: 30px;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
@@ -36,7 +35,7 @@ form {
 
 input {
   padding: 11px;
-  border: 1px solid #ddd;
+  border: 1px solid #000000;
   border-radius: 8px;
   font-size: 16px;
 }
